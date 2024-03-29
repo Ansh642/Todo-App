@@ -1,6 +1,4 @@
-Certainly! Here's a sample README file for your todo-app:
 
----
 
 # Todo App
 
